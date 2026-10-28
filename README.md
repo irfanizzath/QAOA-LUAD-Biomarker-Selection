@@ -1,4 +1,3 @@
-# QAOA-LUAD-Biomarker-Selection
 
 # Gene42: Quantum-Optimized Biomarker Discovery for Lung Adenocarcinoma
 
