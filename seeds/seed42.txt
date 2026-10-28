@@ -1,0 +1,73 @@
+seed=42
+backend=ibm_marrakesh
+date=28/10/2026
+qiskit=2.6.1
+
+  iter    1 | cost = 2.837261
+  iter    2 | cost = 2.685047
+  iter    3 | cost = 1.434494
+  iter    4 | cost = 2.492924
+  iter    5 | cost = 1.386250
+  iter    6 | cost = 1.622852
+  iter    7 | cost = 2.271320
+  iter    8 | cost = 0.164791
+  iter    9 | cost = 0.714571
+  iter   10 | cost = 0.321935
+  iter   11 | cost = 0.208697
+  iter   12 | cost = 0.390895
+  iter   13 | cost = 0.352322
+  iter   14 | cost = 0.371347
+  iter   15 | cost = 0.188331
+  iter   16 | cost = 0.344513
+  iter   17 | cost = 0.130040
+  iter   18 | cost = 0.148495
+  iter   19 | cost = 0.281745
+  iter   20 | cost = 0.253921
+  iter   21 | cost = 0.250094
+  iter   22 | cost = 0.262941
+  iter   23 | cost = 0.232001
+  iter   24 | cost = 0.349156
+  iter   25 | cost = 0.216925
+  iter   26 | cost = 0.142293
+  iter   27 | cost = 0.235168
+  iter   28 | cost = 0.363653
+  iter   29 | cost = 0.335371
+  iter   30 | cost = 0.244641
+  iter   31 | cost = 0.274676
+  iter   32 | cost = 0.154418
+  iter   33 | cost = 0.318617
+  iter   34 | cost = 0.293398
+  iter   35 | cost = 0.330299
+  iter   36 | cost = 0.380188
+  iter   37 | cost = 0.145314
+  iter   38 | cost = 0.233721
+  iter   39 | cost = 0.263276
+  iter   40 | cost = 0.370574
+  iter   41 | cost = 0.216366
+  iter   42 | cost = 0.196083
+  iter   43 | cost = 0.371543
+  iter   44 | cost = 0.188128
+  iter   45 | cost = 0.251925
+  iter   46 | cost = 0.205138
+  iter   47 | cost = 0.171172
+  iter   48 | cost = 0.250730
+  iter   49 | cost = 0.283494
+  iter   50 | cost = 0.320684
+  iter   51 | cost = 0.395876
+  iter   52 | cost = 0.282130
+  iter   53 | cost = 0.403872
+  iter   54 | cost = 0.376427
+
+Quantum Hardware Results
+Optimal raw state found:   0100001100000010
+Best valid state (k=4):    0100001100000010
+Total Cloud Runtime:       481.66 seconds
+Fraction of valid states:  0.0771
+Probability of true opt:   0.0000
+
+Top 5 Bitstrings Sampled:
+  |1001001101111100> : 2 counts
+  |0111111110001101> : 2 counts
+  |1000001111001100> : 2 counts
+  |1111111011111010> : 2 counts
+  |1001101000101001> : 2 counts

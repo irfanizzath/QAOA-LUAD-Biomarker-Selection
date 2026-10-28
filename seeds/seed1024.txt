@@ -1,0 +1,85 @@
+seed=1024
+backend=ibm_marrakesh
+date=28/10/2026
+qiskit=2.6.1
+
+  iter    1 | cost = -0.202432
+  iter    2 | cost = 0.016809
+  iter    3 | cost = 0.246114
+  iter    4 | cost = 0.308449
+  iter    5 | cost = 0.287757
+  iter    6 | cost = -0.176340
+  iter    7 | cost = -0.249061
+  iter    8 | cost = -0.475977
+  iter    9 | cost = -0.314461
+  iter   10 | cost = -0.614841
+  iter   11 | cost = -0.515302
+  iter   12 | cost = -0.625776
+  iter   13 | cost = -0.390908
+  iter   14 | cost = -0.548576
+  iter   15 | cost = -0.731797
+  iter   16 | cost = -0.751047
+  iter   17 | cost = -0.737340
+  iter   18 | cost = -0.651285
+  iter   19 | cost = -0.712557
+  iter   20 | cost = -0.720898
+  iter   21 | cost = -0.519101
+  iter   22 | cost = -0.714907
+  iter   23 | cost = -0.864819
+  iter   24 | cost = -0.702214
+  iter   25 | cost = -0.694284
+  iter   26 | cost = -0.658990
+  iter   27 | cost = -0.801077
+  iter   28 | cost = -0.800701
+  iter   29 | cost = -0.740163
+  iter   30 | cost = -0.784022
+  iter   31 | cost = -0.762544
+  iter   32 | cost = -0.741308
+  iter   33 | cost = -0.710175
+  iter   34 | cost = -0.815342
+  iter   35 | cost = -0.716147
+  iter   36 | cost = -0.747013
+  iter   37 | cost = -0.837541
+  iter   38 | cost = -0.617079
+  iter   39 | cost = -0.746483
+  iter   40 | cost = -0.763332
+  iter   41 | cost = -0.836309
+  iter   42 | cost = -0.686693
+  iter   43 | cost = -0.742906
+  iter   44 | cost = -0.758261
+  iter   45 | cost = -0.823074
+  iter   46 | cost = -0.669928
+  iter   47 | cost = -0.812296
+  iter   48 | cost = -0.941005
+  iter   49 | cost = -0.746087
+  iter   50 | cost = -0.833294
+  iter   51 | cost = -0.736976
+  iter   52 | cost = -0.833893
+  iter   53 | cost = -0.733680
+  iter   54 | cost = -0.772382
+  iter   55 | cost = -0.714638
+  iter   56 | cost = -0.725881
+  iter   57 | cost = -0.739322
+  iter   58 | cost = -0.748445
+  iter   59 | cost = -0.794305
+  iter   60 | cost = -0.762424
+  iter   61 | cost = -0.578477
+  iter   62 | cost = -0.655317
+  iter   63 | cost = -0.702444
+  iter   64 | cost = -0.643306
+  iter   65 | cost = -0.583214
+  iter   66 | cost = -0.609638
+
+Quantum Hardware Results
+Optimal raw state found:   0100010000001010
+Best valid state (k=4):    0100010000001010
+Total Cloud Runtime:       6154.81 seconds
+Fraction of valid states:  0.0918
+Probability of true opt:   0.0010
+
+Top 5 Bitstrings Sampled:
+  |0000001010000000> : 3 counts
+  |0001010000010000> : 2 counts
+  |1101111000010110> : 2 counts
+  |0101000000001000> : 2 counts
+  |1000111111101100> : 2 counts

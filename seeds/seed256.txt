@@ -1,0 +1,72 @@
+seed=256
+backend=ibm_marrakesh
+date=28/10/2026
+qiskit=2.6.1
+
+  iter    1 | cost = -1.287171
+  iter    2 | cost = -1.291666
+  iter    3 | cost = -1.148720
+  iter    4 | cost = -1.044184
+  iter    5 | cost = -1.279297
+  iter    6 | cost = -1.200827
+  iter    7 | cost = -0.835675
+  iter    8 | cost = -0.865156
+  iter    9 | cost = -1.012257
+  iter   10 | cost = -1.006595
+  iter   11 | cost = -1.021806
+  iter   12 | cost = -0.933637
+  iter   13 | cost = -1.267687
+  iter   14 | cost = -1.270444
+  iter   15 | cost = -1.243301
+  iter   16 | cost = -1.266184
+  iter   17 | cost = -1.179910
+  iter   18 | cost = -1.323192
+  iter   19 | cost = -1.345096
+  iter   20 | cost = -1.292615
+  iter   21 | cost = -1.306613
+  iter   22 | cost = -1.202896
+  iter   23 | cost = -1.266249
+  iter   24 | cost = -1.282325
+  iter   25 | cost = -1.226862
+  iter   26 | cost = -1.274444
+  iter   27 | cost = -1.227527
+  iter   28 | cost = -1.314442
+  iter   29 | cost = -1.240160
+  iter   30 | cost = -1.214296
+  iter   31 | cost = -1.197071
+  iter   32 | cost = -1.341384
+  iter   33 | cost = -1.230882
+  iter   34 | cost = -1.222520
+  iter   35 | cost = -1.327606
+  iter   36 | cost = -1.318480
+  iter   37 | cost = -1.250309
+  iter   38 | cost = -1.303872
+  iter   39 | cost = -1.290218
+  iter   40 | cost = -1.298169
+  iter   41 | cost = -1.243228
+  iter   42 | cost = -1.266539
+  iter   43 | cost = -1.361090
+  iter   44 | cost = -1.144505
+  iter   45 | cost = -1.283102
+  iter   46 | cost = -1.392727
+  iter   47 | cost = -1.296904
+  iter   48 | cost = -1.371144
+  iter   49 | cost = -1.304221
+  iter   50 | cost = -1.224230
+  iter   51 | cost = -1.256437
+  iter   52 | cost = -1.370779
+  iter   53 | cost = -1.319360
+
+Quantum Hardware Results
+Optimal raw state found:   0100000000011010
+Best valid state (k=4):    0100000000011010
+Total Cloud Runtime:       1785.35 seconds
+Fraction of valid states:  0.1523
+Probability of true opt:   0.0000
+
+Top 5 Bitstrings Sampled:
+  |0000000000000000> : 8 counts
+  |0000000000010000> : 6 counts
+  |0000010100000000> : 5 counts
+  |1100000000000000> : 4 counts
+  |0000101000000001> : 4 counts
