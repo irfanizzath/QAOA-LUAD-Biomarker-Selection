@@ -150,7 +150,7 @@ Distinguish simulated experiments, saved hardware results, and newly executed ha
 - Evaluate whether the selected panels generalize across cohorts and preprocessing pipelines.
 
 
-##Team Gene42
+## Team 
 
 Mohamed Irfan · Bogdan Egorov · Jayanth Venkatesan · Hasmik Chilingaryan  — University of Birmingham Dubai
 
